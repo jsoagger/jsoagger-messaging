@@ -5,7 +5,7 @@ Chat module for Jsoagger platform.
 
 # General requirements
 
-1. Soaggy chat must be integrated to any JSaoagger applications
+1. Soaggy chat must be integrated to any JSoagger applications
 2. Soaggy chat backend is a standalone springboot microservice
 3. The admin of chat is a person that can manage a chat
 4. The chat is always started by the user
