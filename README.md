@@ -1,4 +1,4 @@
-# soaggy-chat
+# SOAGGY CHAT
 
 Chat module for Jsoagger platform.
 
